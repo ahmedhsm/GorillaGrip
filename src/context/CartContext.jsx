@@ -6,7 +6,7 @@ const PRODUCT = {
   id: 'gorilla-grip-100ml',
   name: 'Gorilla Grip — Liquid Chalk (100ML)',
   shortName: 'Liquid Chalk Grip',
-  price: 100,
+  price: 230,
   currency: 'EGP',
   volume: '100ML',
 };
