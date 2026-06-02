@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 const steps = [
   { num: '01', title: 'Apply', desc: 'Apply a small amount to dry hands', image: '/step.jpeg' },
   { num: '02', title: 'Spread', desc: 'Spread evenly across palms and fingers', image: '/step2_clean.png' },
-  { num: '03', title: 'Dry', desc: 'Let dry for 3–5 seconds', image: '/step3_clean.png' },
+  { num: '03', title: 'Dry', desc: 'Let dry for 7~10 seconds', image: '/step3_clean.png' },
   { num: '04', title: 'Train', desc: 'Train with full confidence and maximum grip', image: '/step4_clean.png' },
 ];
 

@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import { motion } from 'framer-motion';
 
 const stats = [
-  { value: 3, suffix: 's', label: 'Dries In', icon: '⚡' },
+  { value: 7, suffix: 's', label: 'Dries In', icon: '⚡' },
   { value: 100, suffix: 'ML', label: 'Net Volume', icon: '📦' },
   { value: 4, suffix: '+', label: 'Sports Ready', icon: '🏆' },
   { value: 0, suffix: '%', label: 'Slip Rate', icon: '🎯' },

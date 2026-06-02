@@ -4,7 +4,7 @@ const features = [
   {
     icon: '⚡',
     title: 'Dries Fast',
-    desc: 'Apply and go. Dries in 3–5 seconds so you never lose momentum between sets.',
+    desc: 'Apply and go. Dries in 7~10 seconds so you never lose momentum between sets.',
     span: 'md:col-span-2',
   },
   {
